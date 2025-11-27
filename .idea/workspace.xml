@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="768222f4-b3aa-4faa-9338-622bcfddcede" name="Changes" comment="Week 1 of Spring">
+      <change beforePath="$PROJECT_DIR$/Week4/task-tracker/out/production/task-tracker/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/AverangeWordLenght.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/EvensAndOdds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/ListOfNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/LongestWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/SentancesToWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/SumOfSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/WordsGroupedByLenght.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/etsviewer.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;en-denis-mihalache&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/en-denis-mihalache/School-of-Java&quot;,
+    &quot;accountId&quot;: &quot;cbda53f0-ff8e-4fc6-9629-681f06ad4ce5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="363r4GHPF3rpaOqau3MlYBqPexC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#1 on dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gmihalache/OneDrive - ENDAVA/Desktop/School/School-of-Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="768222f4-b3aa-4faa-9338-622bcfddcede" name="Changes" comment="" />
+      <created>1764245902573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764245902573</updated>
+      <workItem from="1764245904126" duration="153000" />
+      <workItem from="1764247063359" duration="315000" />
+    </task>
+    <task id="LOCAL-00001" summary="Week 1 of Spring">
+      <option name="closed" value="true" />
+      <created>1764247108569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764247108569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 1 of Spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 1 of Spring" />
+  </component>
+</project>
