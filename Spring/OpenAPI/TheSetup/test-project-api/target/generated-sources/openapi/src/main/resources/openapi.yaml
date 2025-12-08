@@ -1,0 +1,45 @@
+openapi: 3.0.0
+info:
+  description: The library service
+  title: Library Service
+  version: 0.0.1
+servers:
+- url: /
+tags:
+- name: Library
+paths:
+  /library/books:
+    get:
+      description: This is a description
+      operationId: getAllBooksInLibrary
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/Book'
+                type: array
+          description: This means its ok
+      summary: This is summary
+      tags:
+      - Library
+      x-accepts:
+      - application/json
+      x-tags:
+      - tag: Library
+components:
+  schemas:
+    Book:
+      description: This is the book model
+      example:
+        name: name
+        bookAuthor: bookAuthor
+      properties:
+        name:
+          description: The name of book
+          type: string
+        bookAuthor:
+          description: name of author
+          type: string
+      type: object
